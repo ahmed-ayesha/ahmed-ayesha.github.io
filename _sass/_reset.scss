@@ -70,10 +70,16 @@ a {
   color: $link-color;
 }
 
-/* Apply focus state */
+/* Apply focus state (keyboard navigation only) */
 
 a:focus {
   @extend %tab-focus;
+}
+
+/* Hide the outline for mouse clicks; keep it for keyboard (Tab) users */
+
+a:focus:not(:focus-visible) {
+  outline: 0;
 }
 
 /* Remove outline from links */
