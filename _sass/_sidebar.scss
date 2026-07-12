@@ -13,8 +13,19 @@
   @include clearfix();
   margin-bottom: 1em;
 
-  @include breakpoint($large) {
-    @include span(2 of 12);
+  // Only two layouts: below $sidebar-switch the sidebar stays in normal flow
+  // and stacks above the content (centered, undistorted); at $sidebar-switch it
+  // becomes the glued left column. The old intermediate cramped band (fixed but
+  // squeezed to 136px, overflowing into the text) has been removed.
+  @include breakpoint($sidebar-switch) {
+    // Glued to the browser window — never scrolls, top or bottom.
+    // width/left are computed to match the Susy column it used to float in.
+    position: fixed;
+    top: 7em;                  // ← vertical resting point; nudge to align with the first line of text
+    left: calc(50vw - 403px);  // tuned so the 190px sidebar clears the text (~40px gap). See $sidebar-switch.
+    width: 190px;
+    padding-right: 0;
+    z-index: 20;
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -22,11 +33,6 @@
     &:hover {
       opacity: 1;
     }
-  }
-
-
-  @include breakpoint($x-large) {
-    padding-right: 0;
   }
 
   h2, h3, h4, h5, h6 {
@@ -70,42 +76,26 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
-
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-  }
+  // Full-size avatar at every width (stacks above content on narrow screens).
+  display: block;
+  width: auto;
+  height: auto;
 
   img {
     max-width: 175px;
-    border-radius: 50%;
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
+    border-radius: 0;
+    padding: 5px;
+    border: 1px solid $border-color;
   }
 }
 
 .author__content {
-  display: table-cell;
-  vertical-align: top;
-  padding-left: 15px;
-  padding-right: 25px;
+  // Stacked full-width name/bio at every width.
+  display: block;
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
   line-height: 1;
-
-  @include breakpoint($large) {
-    display: block;
-    width: 100%;
-    padding-left: 0;
-    padding-right: 0;
-  }
 }
 
 .author__name {
@@ -119,6 +109,7 @@
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
+  margin-bottom: 12px;
 }
 
 .author__pronouns {
@@ -141,11 +132,9 @@
 
 .author__urls-wrapper {
   position: relative;
-  display: table-cell;
-  vertical-align: middle;
+  display: block;
   font-family: $sans-serif;
   z-index: 10;
-  position: relative;
   cursor: pointer;
 
   li:last-child {
@@ -154,87 +143,38 @@
     }
   }
 
-  @include breakpoint($large) {
-    display: block;
-  }
-
+  // "Follow" button was only used to reveal the collapsed dropdown; the links
+  // are always visible now, so hide it at every width.
   button {
-    margin-bottom: 0;
-
-    @include breakpoint($large) {
-      display: none;
-    }
+    display: none;
   }
 }
 
 .author__urls {
-  display: none;
-  position: absolute;
-  right: 0;
-  margin-top: 15px;
-  padding: 10px;
+  // Always-visible, flat list of contact links (no pop-up dropdown / arrows).
+  display: block;
+  position: relative;
+  margin: 0;
+  padding: 0;
   list-style-type: none;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  background: #fff;
-  z-index: -1;
-  box-shadow: 0 0 10px rgba(#000, 0.25);
+  border: 0;
+  background: transparent;
+  box-shadow: none;
   cursor: default;
-
-  @include breakpoint($large) {
-    display: block;
-    position: relative;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    background: transparent;
-    box-shadow: none;
-  }
-
-  &:before {
-    display: block;
-    content: "";
-    position: absolute;
-    top: -11px;
-    left: calc(50% - 10px);
-    width: 0;
-    border-style: solid;
-    border-width: 0 10px 10px;
-    border-color: $border-color transparent;
-    z-index: 0;
-
-    @include breakpoint($large) {
-      display: none;
-    }
-  }
-
-  &:after {
-    display: block;
-    content: "";
-    position: absolute;
-    top: -10px;
-    left: calc(50% - 10px);
-    width: 0;
-    border-style: solid;
-    border-width: 0 10px 10px;
-    border-color: #fff transparent;
-    z-index: 1;
-
-    @include breakpoint($large) {
-      display: none;
-    }
-  }
 
   li {
     white-space: nowrap;
+    margin-bottom: 4px;   // ← tightened gap between items
+    line-height: 1.5;     // ← was 1.5, reduced row height
   }
 
   a {
     display: block;
-    margin-bottom: 5px;
+    margin-bottom: 1px;     // ← was 5px
     padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding-top: 1px;       // ← was 2px
+    padding-bottom: 1px;    // ← was 2px
+    line-height: 1.2;     // ← added
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;

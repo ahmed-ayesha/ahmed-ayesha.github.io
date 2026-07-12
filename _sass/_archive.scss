@@ -9,7 +9,10 @@
     @include span(12 of 12);
   }
 
-  @include breakpoint($large) {
+  // Offset into the right column only when the glued sidebar appears
+  // ($sidebar-switch); below that the content is full-width and stacks. Matches
+  // the two-state (wide / narrow) behaviour used on the .page layout.
+  @include breakpoint($sidebar-switch) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
   }

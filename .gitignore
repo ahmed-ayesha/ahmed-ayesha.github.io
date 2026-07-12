@@ -3,3 +3,13 @@ _site/
 
 # Ignore the Gemfile that is generated
 Gemfile.lock
+
+# Ignore installed gems
+vendor/
+
+# Ignore macOS metadata
+.DS_Store
+
+# Ignore local-only working folders (never publish)
+working files/
+archive/

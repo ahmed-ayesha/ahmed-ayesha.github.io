@@ -53,8 +53,8 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff;
-$background-color           : #fff;
+$body-color                 : #fbfbfb;
+$background-color           : #e7eaef;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
@@ -94,7 +94,7 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : #2b5871; // navy blue
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
@@ -119,6 +119,14 @@ $medium                     : 768px !default;
 $medium-wide                : 900px !default;
 $large                      : 925px !default;
 $x-large                    : 1280px !default;
+
+// Window width at which the layout switches from one-column (stacked) to the
+// two-column glued-sidebar view. ← change this to move the switch point.
+// If you change it, also retune the sidebar `left: calc(50vw - Npx)` offset in
+// _sidebar.scss: N ≈ ($sidebar-switch / 6) + 220  (≈403 at 1100, ≈434 at 1280).
+// The /6 term accounts for the left gutter shrinking as the container narrows;
+// fine-tune N by eye so the sidebar clears the body text with a small gap.
+$sidebar-switch             : 1100px;
 
 /*
    Grid

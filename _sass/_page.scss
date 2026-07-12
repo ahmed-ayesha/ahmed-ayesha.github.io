@@ -5,22 +5,37 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2em;
-  padding-left: 1em;
-  padding-right: 1em;
+  margin-top: 5em;   // aligns first line of text with the top of the fixed sidebar image (sidebar top:7em)
+  // Side margins for the one-column (stacked) view, in two tiers:
+  //   below $small (600px) → tight 2em margins (phones)
+  //   $small–$sidebar-switch → roomy 4.5em margins
+  // Lower/raise the $small breakpoint below to move where the roomy→tight
+  // transition happens; at $sidebar-switch padding resets to 1em so the glued
+  // sidebar's calc() alignment is preserved.
+  padding-left: 2em;
+  padding-right: 2em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
-  @include breakpoint($x-large) {
-    max-width: $x-large;
+  @include breakpoint($small) {
+    padding-left: 4.5em;    // ← roomy side margins for the one-column view; tune to taste
+    padding-right: 4.5em;
+  }
+
+  @include breakpoint($sidebar-switch) {
+    max-width: $sidebar-switch;
+    padding-left: 1em;      // tight padding so the fixed sidebar stays aligned
+    padding-right: 1em;
   }
 }
 
 .page {
-  @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+  // Offset the content into the right-hand column only when the glued sidebar
+  // appears ($sidebar-switch). Below that the content is full-width and stacks
+  // under the sidebar. Keeps the layout to just two states: wide and narrow.
+  @include breakpoint($sidebar-switch) {
+    @include span(8 of 12 last);
+    @include suffix(1.5 of 12);
   }
 
   .page__inner-wrap {
@@ -56,12 +71,28 @@
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: .9em;
+  }
+
+  /* project descriptions under each Research-in-Progress title/authors */
+  p.research-desc {
+    font-size: .8em;
+  }
+
+  /* Research-in-Progress project titles (+ author line) — slightly darker */
+  p.research-title {
+    color: $darker-gray;
+  }
+
+  /* intro bio paragraphs — between .research-desc (.8em) and normal (.9em) */
+  p.intro-bio {
+    font-size: .85em;
   }
 
   /* paragraph indents */
   p {
-    margin: 0 0 $indent-var;
+    margin: 0 0 0.7em;   // vertical gap between paragraphs (was $indent-var = 1.3em)
+    text-align: justify;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
@@ -73,7 +104,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;

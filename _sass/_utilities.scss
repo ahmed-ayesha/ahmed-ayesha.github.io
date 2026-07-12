@@ -382,7 +382,11 @@ body:hover .visually-hidden button {
    ========================================================================== */
 
 .sticky {
-  @include breakpoint($large) {
+  // Only pin once the two-column layout is active ($sidebar-switch). Pinning
+  // earlier (at $large) made the sidebar overlap the still-full-width content
+  // as you scrolled in the 925–1100px "medium narrow" range. Below the switch
+  // the sidebar stays in normal flow and scrolls with the page.
+  @include breakpoint($sidebar-switch) {
     @include clearfix();
     position: -webkit-sticky;
     position: sticky;
