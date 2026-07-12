@@ -13,3 +13,7 @@ vendor/
 # Ignore local-only working folders (never publish)
 working files/
 archive/
+
+# Ignore local-only resume source/copies (not used by the site)
+_pages/resume.tex
+ahmed_resume_20260709.pdf
