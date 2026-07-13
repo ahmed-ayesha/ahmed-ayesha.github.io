@@ -23,55 +23,79 @@ My dissertation focuses on rural credit markets, microfinance, risk and insuranc
 ### Research in Progress
 <br>
 
-"Repayment Norms in Microfinance"
+"Repayment Norms in Microfinance" <span class="jmp-badge">Job Market Paper</span>
 {: .research-title}
 
-Microfinance substitutes normative incentives and social enforcement for physical collateral, yet whether such behavioral motivations deter default beyond conventional contractual incentives remains open. In individual liability microfinance, transactions occur in groups where default is visible to peers, making social observability an institutional feature through that motivates reputational norm compliance. 
+Presentations: 2025 AAEA & WAEA Joint Annual Meeting (Poster); 14th Annual Bay Area Behavioral Economics and Experimental Workshop, 2025.
+{: .research-desc}
+{% comment %}[(Poster)](https://ageconsearch.umn.edu/record/360823?ln=en&v=pdf){% endcomment %}
+
+<details class="abstract" markdown="1">
+<summary>Abstract</summary>
+
+Microfinance substitutes normative incentives and social enforcement for physical collateral, yet whether such behavioral motivations deter default beyond conventional contractual incentives remains open. In individual liability microfinance, transactions occur in groups where default is visible to peers, making social observability an institutional feature that motivates reputational norm compliance. 
 I run a framed lab-in-the-field experiment with 919 BRAC borrowers across 100 villages in southern Bangladesh, exploiting within-borrower variation in the social observability of default to identify the reputational norm response on repayment and recover individual measures of intrinsic and reputational norms. Observability raises repayment by 562–798 BDT across income states (about 3.3–3.5% of baseline), rising to 793–1,605 BDT (3.8–5.3%) once censoring at the repayment bounds is accounted for. Repayment increases with the favorable income state, and the effect of observability is positive and significant in all states.
 A conceptual framework interprets these effects as a state-dependent reputational norm response induced by social observability along with the internal norm response. Ongoing analysis tests whether these borrower-specific norms explain voluntary credit rationing in real borrowing decisions. The study offers a framework for identifying the behavioral mechanisms that sustain repayment and informs the design of credit and insurance products that can expand financial inclusion for farmers facing production risk.
 {: .research-desc}
 
+</details>
 
-*Presentations: 2025 AAEA & WAEA Joint Annual Meeting (Poster); 14th Annual Bay Area Behavioral Economics and Experimental Workshop, 2025.*
-{: .research-desc}
-{% comment %}[(Poster)](https://ageconsearch.umn.edu/record/360823?ln=en&v=pdf){% endcomment %}
 
 <br>
 
-"Does Insurance Reduce Risk Rationing in Microfinance?" *with [Michael Carter](https://are.ucdavis.edu/people/faculty/michael-carter/) (ongoing)*
+"Does Insurance Reduce Risk Rationing in Microfinance?" *with [Michael Carter](https://are.ucdavis.edu/people/faculty/michael-carter/)*
 {: .research-title}
+
+<details class="abstract" markdown="1">
+<summary>Abstract</summary>
 
 This study evaluates whether indexed financial tools can mitigate risk rationing among smallholder farmers in Bangladesh. In a large-scale randomized experiment, I analyze the impacts of standalone agricultural index insurance versus the insurance bundled with savings and a contingent line of credit on different forms of credit constraints among microfinance borrowers. I hypothesize that risk rationing is more prevalent among borrowers with higher norm conformity, isolating the constraints imposed by "social collateral."
 {: .research-desc}
+
+</details>
 
 <br>
 
 "Eliciting Non-Price Rationing among Microfinance Borrowers" *with [Michael Carter](https://are.ucdavis.edu/people/faculty/michael-carter/), [Steve Boucher](https://are.ucdavis.edu/people/faculty/steve-boucher/)*
 {: .research-title}
 
+<details class="abstract" markdown="1">
+<summary>Abstract</summary>
+
 This study explores the prevalence of non-price credit rationing. Adapting the Direct Elicitation Method (DEM) for the microfinance context in Bangladesh, I categorize borrowers into quantity-, price-, and risk-rationed groups.
 {: .research-desc}
+
+</details>
 
 <br>
 
 "When Corruption is the Norm: Can Signaling Environmental Compliance Reduce Bribery?" *with [Moogdho Mahzab](https://sites.google.com/virginia.edu/moogdhomahzab/home), Nina Brooks, Aprajit Mahajan, [Stephen Luby](https://profiles.stanford.edu/stephen-luby), Debashish Biswas, Rofi Ahmed, Shoeb Ahmed*
-
 {: .research-title}
+
+Presentations: Pacific Conference for Development Economics (PacDev) 2026; AEDSB Dhaka Winter Conference 2025, BIGD-BRAC
+{: .research-desc}
+
+<details class="abstract" markdown="1">
+<summary>Abstract</summary>
 
 {% comment %} This study investigates whether signaling regulatory compliance can reduce illicit payments in the structurally informal brick-kiln industry of Bangladesh. Using an instrumental-variables approach, we estimate the causal effect of displaying environmental compliance banners on bribes and compliance-related payments to local bureaucrats. Contrary to concerns that signaling might increase extortion, we find that compliance signaling reduces illicit costs. {% endcomment %}
 Firms in developing countries often operate in structurally informal environments where illicit payments are embedded in the cost of doing business. Using primary data from the brick kiln industry in Bangladesh, this paper studies whether credible signaling of regulatory compliance, beyond compliance itself, can reduce illicit payments. We exploit variation in banner display induced by randomized assignment to a broader environmental technology intervention to identify the causal effect of compliance signaling. Using variation in environmental intervention as an instrument, we estimate the local average treatment effect of banner display on illicit payments per 1,000 bricks. While standard models predict that compliance signaling could increase rent extraction if officials perceive compliant kilns as more profitable, or reduce it if officials value regulatory compliance more, the findings support the latter. Each additional week of banner display reduces bribe payments by 18.6% and compliance costs by 5.4%, and in a firing season, banner receipt reduces bribe payments by 19.3% and compliance costs by 5.2%. The results suggest that credible compliance signals reshape firm-bureaucrat interactions by limiting discretionary rent extraction in weak institutional settings.
 {: .research-desc}
 
-*Presentations: Pacific Conference for Development Economics (PacDev) 2026; AEDSB Dhaka Winter Conference 2025, BIGD-BRAC.*
-{: .research-desc}
+</details>
 
 <br>
 
 "Impact of Minimum Wage Policy on Consumer Demand: Evidence from US Fast Food Chains" *with [Modhurima Dey Amin](https://www.depts.ttu.edu/aaec/research/Faculty-Research-Expertise-and-Scholarship/Modhurima-Dey-Amin-PhD.php)*
 {: .research-title}
 
+<details class="abstract" markdown="1">
+<summary>Abstract</summary>
+
 This study uses a difference-in-differences design to estimate how fast-food minimum wage legislation affects store-level sales and customer traffic. Drawing on the policy's selective coverage, we compare affected large chains against unaffected competitors using a high-frequency panel of 680,000+ observations, with data processing and analysis implemented in Python.
 {: .research-desc}
+
+</details>
 
 
 {% comment %}
