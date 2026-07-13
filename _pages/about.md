@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. candidate in the Department of Agricultural and Resource Economics at the University of California, Davis. My research interests are in applied microeconomics, development economics, and behavioral economics.
+I am a Ph.D. candidate in the Department of Agricultural and Resource Economics at the University of California, Davis. My research interests are in applied microeconomics, development economics, and behavioral economics.
 My dissertation focuses on rural credit markets, microfinance, risk and insurance, and consumer decision-making, using experimental methods. I conduct a lab-in-the-field experiment on repayment norms in microfinance, supported by a sub-grant from the randomized controlled trial on [Bundling Indexed Financial Tools for Smallholder Producers in Bangladesh](https://resilience.ucdavis.edu/bundling-indexed-financial-tools-bangladesh){: style="color: inherit; text-decoration: underline;"} at the [Resilience+ Innovation Facility](https://resilience.ucdavis.edu/){: style="color: inherit; text-decoration: underline;"}. My independent projects use quasi-experimental methods and econometric modeling for high-frequency observational data to evaluate interventions and inform policy.
 {: .intro-bio}
 
