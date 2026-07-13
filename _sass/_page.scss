@@ -94,6 +94,14 @@
     font-size: .85em;
   }
 
+  /* research-field tagline under the intro bio */
+  p.intro-fields {
+    margin-top: 0.5em;
+    font-family: $sans-serif;
+    font-size: 0.7em;
+    color: $dark-gray;
+  }
+
   /* "Job Market Paper" badge on the featured research title */
   .jmp-badge {
     display: inline-block;
