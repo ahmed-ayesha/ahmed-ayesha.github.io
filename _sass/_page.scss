@@ -82,6 +82,7 @@
   /* Research-in-Progress project titles (+ author line) — slightly darker */
   p.research-title {
     color: $darker-gray;
+    font-size: 0.85em;
 
     /* author line ("with …") — same font, slightly smaller than the title */
     em {
