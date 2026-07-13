@@ -505,3 +505,14 @@ a.reversefootnote {
   color: $danger-color;
   font-weight: bold;
 }
+
+
+/*
+   Vertical spacers — lighter alternatives to <br> for within-section gaps.
+   A plain <br> is ~1.4em tall; these give smaller, fixed, tunable gaps.
+   Usage:  <div class="space-sm"></div>   (also space-xs / space-md)
+   ========================================================================== */
+
+.space-xs { display: block; height: 0.35em; }
+.space-sm { display: block; height: 0.6em; }
+.space-md { display: block; height: 1em; }

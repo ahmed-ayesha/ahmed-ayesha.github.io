@@ -21,12 +21,13 @@ My dissertation focuses on rural credit markets, microfinance, risk and insuranc
 <br>
 
 ### Research in Progress
-<br>
 
-"Repayment Norms in Microfinance" <span class="jmp-badge">Job Market Paper</span>
+<div class="space-md"></div>
+
+"Repayment Norms and Risk Rationing in Microfinance" <a class="jmp-badge" href="{{ '/files/slides_repayement_norm.pdf' | relative_url }}" target="_blank" rel="noopener">Job Market Paper</a>
 {: .research-title}
 
-Presentations: 2025 AAEA & WAEA Joint Annual Meeting (Poster); 14th Annual Bay Area Behavioral Economics and Experimental Workshop, 2025.
+Presentations: [Symposium in Honor of Michael Carter, 2026](https://are.ucdavis.edu/symposium-in-honor-of-michael-carter/){: style="color: inherit;"}; AAEA & WAEA Joint Annual Meeting, 2025 (Poster); 14th Annual Bay Area Behavioral Economics and Experimental Workshop, 2025.
 {: .research-desc}
 {% comment %}[(Poster)](https://ageconsearch.umn.edu/record/360823?ln=en&v=pdf){% endcomment %}
 
@@ -41,9 +42,9 @@ A conceptual framework interprets these effects as a state-dependent reputationa
 </details>
 
 
-<br>
+<div class="space-sm"></div>
 
-"Does Insurance Reduce Risk Rationing in Microfinance?" *with [Michael Carter](https://are.ucdavis.edu/people/faculty/michael-carter/)*
+"Does Insurance Reduce Credit Non-price Credit Rationing in Microfinance?" *with [Michael Carter](https://are.ucdavis.edu/people/faculty/michael-carter/)*
 {: .research-title}
 
 <details class="abstract" markdown="1">
@@ -54,7 +55,7 @@ This study evaluates whether indexed financial tools can mitigate risk rationing
 
 </details>
 
-<br>
+<div class="space-sm"></div>
 
 "Eliciting Non-Price Rationing among Microfinance Borrowers" *with [Michael Carter](https://are.ucdavis.edu/people/faculty/michael-carter/), [Steve Boucher](https://are.ucdavis.edu/people/faculty/steve-boucher/)*
 {: .research-title}
@@ -67,9 +68,9 @@ This study explores the prevalence of non-price credit rationing. Adapting the D
 
 </details>
 
-<br>
+<div class="space-sm"></div>
 
-"When Corruption is the Norm: Can Signaling Environmental Compliance Reduce Bribery?" *with [Moogdho Mahzab](https://sites.google.com/virginia.edu/moogdhomahzab/home), Nina Brooks, Aprajit Mahajan, [Stephen Luby](https://profiles.stanford.edu/stephen-luby), Debashish Biswas, Rofi Ahmed, Shoeb Ahmed*
+"When Corruption is the Norm: Can Signaling Environmental Compliance Reduce Bribery?" *with [Moogdho Mahzab](https://sites.google.com/virginia.edu/moogdhomahzab/home), [Nina Brooks](https://www.ninarbrooks.com/index.html), [Aprajit Mahajan](https://vcresearch.berkeley.edu/faculty/aprajit-mahajan), [Stephen Luby](https://profiles.stanford.edu/stephen-luby), Debashish Biswas, Rofi Ahmed, Shoeb Ahmed*
 {: .research-title}
 
 Presentations: Pacific Conference for Development Economics (PacDev) 2026; AEDSB Dhaka Winter Conference 2025, BIGD-BRAC
@@ -84,7 +85,7 @@ Firms in developing countries often operate in structurally informal environment
 
 </details>
 
-<br>
+<div class="space-sm"></div>
 
 "Impact of Minimum Wage Policy on Consumer Demand: Evidence from US Fast Food Chains" *with [Modhurima Dey Amin](https://www.depts.ttu.edu/aaec/research/Faculty-Research-Expertise-and-Scholarship/Modhurima-Dey-Amin-PhD.php)*
 {: .research-title}
