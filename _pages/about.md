@@ -48,7 +48,7 @@ Does making default observable to peers increase repayment in microfinance? Many
 "When Corruption is the Norm: Can Signaling Environmental Compliance Reduce Bribery?" *with [Moogdho Mahzab](https://sites.google.com/virginia.edu/moogdhomahzab/home), [Nina Brooks](https://www.ninarbrooks.com/index.html), [Aprajit Mahajan](https://vcresearch.berkeley.edu/faculty/aprajit-mahajan), [Stephen Luby](https://profiles.stanford.edu/stephen-luby), Debashish Biswas, Rofi Ahmed, Shoeb Ahmed*
 {: .research-title}
 
-Presentations: Pacific Conference for Development Economics (PacDev) 2026; AEDSB Dhaka Winter Conference 2025, BIGD-BRAC
+Presentations: AAEA Annual Meeting 2026, Pacific Conference for Development Economics (PacDev) 2026; AEDSB Dhaka Winter Conference 2025, BIGD-BRAC
 {: .research-desc}
 
 <details class="abstract" markdown="1">
@@ -68,7 +68,7 @@ Firms in developing countries often operate in structurally informal environment
 <details class="abstract" markdown="1">
 <summary>Abstract</summary>
 
-This study evaluates whether indexed financial tools can mitigate risk rationing among smallholder farmers in Bangladesh. In a large-scale randomized experiment, I analyze the impacts of agricultural index insurance versus the insurance bundled with savings and a contingent line of credit on different forms of credit constraints among microfinance borrowers. I hypothesize that risk rationing is more prevalent among borrowers with higher norm conformity, isolating the constraints imposed by "social collateral."
+This study evaluates whether indexed financial tools can mitigate risk rationing among smallholder farmers in Bangladesh. In a large-scale randomized experiment, I analyze the impacts of agricultural index insurance versus insurance bundled with savings and a contingent line of credit on different forms of credit constraints among microfinance borrowers. A related lab-in-the-field experiment provides borrower-specific measures of reputational concern in repayment. I use these measures to test whether risk rationing is more prevalent among borrowers who are more responsive to reputational incentives, such that social incentives function like a non physical collateral.
 {: .research-desc}
 
 </details>
@@ -88,7 +88,7 @@ This study explores the prevalence of non-price credit rationing. Adapting the D
 
 <div class="space-sm"></div>
 
-"Impact of Minimum Wage Policy on Consumer Demand: Evidence from US Fast Food Chains" *with [Modhurima Dey Amin](https://www.depts.ttu.edu/aaec/research/Faculty-Research-Expertise-and-Scholarship/Modhurima-Dey-Amin-PhD.php)*
+"Impact of Minimum Wage Policy on Consumer Demand: Evidence from US Fast Food Chains" *with [Modhurima Dey Amin](https://www.depts.ttu.edu/aaec/research/Faculty-Research-Expertise-and-Scholarship/Modhurima-Dey-Amin-PhD.php), Syed Badruddoza*
 {: .research-title}
 
 <details class="abstract" markdown="1">
