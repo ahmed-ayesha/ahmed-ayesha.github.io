@@ -18,7 +18,7 @@ Fields: Development Economics · Behavioral & Experimental Economics · Applied 
 <p class="intro-bio" style="margin: 0.75em 0 0;">
   <a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>&nbsp;Email</a>&emsp;
   <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>&nbsp;LinkedIn</a>&emsp;
-  <a href="{{ '/files/resume.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="far fa-fw fa-file-lines" aria-hidden="true"></i>&nbsp;CV</a>
+  <a href="{{ '/files/ahmed_cva.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="far fa-fw fa-file-lines" aria-hidden="true"></i>&nbsp;CV</a>
 </p>
 {% endcomment %}
 
