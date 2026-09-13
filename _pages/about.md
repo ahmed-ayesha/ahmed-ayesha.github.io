@@ -24,7 +24,8 @@ Fields: Development Economics · Behavioral & Experimental Economics · Applied 
 
 <div class="space-xs"></div>
 
-### Research in Progress
+
+### Working Papers
 
 <div class="space-md"></div>
 
@@ -38,7 +39,7 @@ Presentations: [Symposium in Honor of Michael Carter, 2026](https://are.ucdavis.
 <details class="abstract" markdown="1">
 <summary>Abstract</summary>
 
-Does making default observable to peers increase repayment in microfinance? Many microfinance institutions have moved from joint to individual liability contracts, yet continue to collect installments in group settings that preserve the *social observability of default* as an institutional feature. In a framed lab-in-the-field experiment, I vary whether default is observable to peers along with the borrower's realized income, for a hypothetical loan on which borrowers make incentivized repayment decisions. The experiment was conducted with 919 agricultural borrowers across 100 borrowing groups in Bangladesh, and the within-subject variation in observability identifies the *audience effect* on repayment. I find that an audience raises repayment by 3.3 to 5.3 percent relative to the amount repaid without an audience. While the audience effect does not vary detectably across income states, repayment without an audience rises with income, ranging from half to two-thirds of the debt obligation. Reliability coefficients between 0.81 and 0.87 indicates systematic rather than random responses. Since the experiment removes other contractual penalties, the conceptual framework interprets repayment without an audience as reflecting intrinsic motivation and the additional repayment induced by an audience as reflecting reputational motivation. Although the estimated repayment gain is modest relative to the total debt obligation, a reduction in field default of the same magnitude would raise lender profit by 34 to 55 percent of the zero default margin.
+Does making default observable to peers increase repayment in microfinance? Many microfinance institutions have moved from joint to individual liability contracts, yet continue to collect installments in group settings that preserve the *social observability of default* as an institutional feature. In a framed lab-in-the-field experiment, I vary whether default is observable to peers along with the borrower's realized income, for a hypothetical loan on which borrowers make incentivized repayment decisions. The experiment was conducted with 919 agricultural borrowers across 100 borrowing groups in Bangladesh, and the within-subject variation in observability identifies the *audience effect* on repayment. I find that an audience raises repayment by 3.3 to 5.3 percent relative to the amount repaid without an audience. While the audience effect does not vary detectably across income states, repayment without an audience rises with income, ranging from half to two-thirds of the debt obligation. Reliability coefficients between 0.81 and 0.87 indicates systematic rather than random responses. The conceptual framework interprets repayment without an audience as reflecting intrinsic motivation and the additional repayment induced by an audience as reflecting reputational motivation. Although the estimated repayment gain is modest relative to the total debt obligation, a reduction in field default of the same magnitude would raise lender profit by 34 to 55 percent of the zero default margin.
 {: .research-desc}
 
 </details>
@@ -60,44 +61,61 @@ Firms in developing countries often operate in structurally informal environment
 
 </details>
 
+
+### Research in Progress
+
 <div class="space-sm"></div>
 
-"Does Insurance Reduce Credit Non-price Credit Rationing in Microfinance?" *with [Michael Carter](https://are.ucdavis.edu/people/faculty/michael-carter/)*
+"Minimum Wages and Consumer Demand: Evidence from U.S. Fast-Food Chains" *with [Modhurima Dey Amin](https://www.depts.ttu.edu/aaec/research/Faculty-Research-Expertise-and-Scholarship/Modhurima-Dey-Amin-PhD.php), Syed Badruddoza*
 {: .research-title}
 
 <details class="abstract" markdown="1">
-<summary>Abstract</summary>
+<summary>Summary</summary>
 
-This study evaluates whether indexed financial tools can mitigate risk rationing among smallholder farmers in Bangladesh. In a large-scale randomized experiment, I analyze the impacts of agricultural index insurance versus insurance bundled with savings and a contingent line of credit on different forms of credit constraints among microfinance borrowers. A related lab-in-the-field experiment provides borrower-specific measures of reputational concern in repayment. I use these measures to test whether risk rationing is more prevalent among borrowers who are more responsive to reputational incentives, such that social incentives function like a non physical collateral.
+This study examines how minimum wage regulation affects consumer demand in the U.S. fast-food industry. Using a difference-in-differences design, we exploit differential exposure to California's fast-food minimum wage law and compare affected large chains with unaffected competitors. The analysis uses a high frequency panel of 680,000 store-level sales and customer traffic, with data processing and analysis implemented in Python.
 {: .research-desc}
 
 </details>
 
 <div class="space-sm"></div>
 
-"Eliciting Non-Price Rationing among Microfinance Borrowers" *with [Michael Carter](https://are.ucdavis.edu/people/faculty/michael-carter/), [Steve Boucher](https://are.ucdavis.edu/people/faculty/steve-boucher/)*
+"Indexed Financial Tools and Risk Rationing in Microfinance" *with [Michael Carter](https://are.ucdavis.edu/people/faculty/michael-carter/)*
 {: .research-title}
 
 <details class="abstract" markdown="1">
-<summary>Abstract</summary>
+<summary>Summary</summary>
+
+This study examines whether indexed financial tools reduce risk rationing among smallholder microfinance borrowers in Bangladesh. Through a large-scale randomized experiment, we compare standalone agricultural index insurance with insurance bundled with savings and a contingent line of credit, and measure their effects on different forms of non-price credit rationing. We also examine whether risk rationing is more prevalent among borrowers who are more responsive to reputational incentives, testing whether social collateral can itself contribute to reluctance to borrow under risk.
+{: .research-desc}
+
+</details>
+
+<div class="space-sm"></div>
+
+"Repayment Motivations and Financial Decision in Microfinance: Do Experimental Measures Predict Field Behavior?" <!--  *with [Michael Carter](https://are.ucdavis.edu/people/faculty/michael-carter/)* -->
+{: .research-title}
+
+<details class="abstract" markdown="1">
+<summary>Summary</summary>
+
+This study develops individual-specific measures of intrinsic and reputational repayment motivation among microfinance borrowers from repeated choices in a framed lab-in-the-field experiment. Borrower-level latent repayment behavior and responsiveness to an audience are estimated using random-effects and two-limit Tobit specifications, while accounting for measurement error in the recovered behavioral reponses. The resulting measures of intrinsic and reputational motivation are used to examine whether experimentally elicited repayment motivations predict subsequent field outcomes, including insurance uptake and non-price credit rationing.
+{: .research-desc}
+
+</details>
+
+<div class="space-sm"></div>
+
+"Measuring Non-Price Credit Rationing in Microfinance" <!-- *with [Michael Carter](https://are.ucdavis.edu/people/faculty/michael-carter/), [Steve Boucher](https://are.ucdavis.edu/people/faculty/steve-boucher/)* -->
+{: .research-title}
+
+<details class="abstract" markdown="1">
+<summary>Summary</summary>
 
 This study explores the prevalence of non-price credit rationing. Adapting the Direct Elicitation Method (DEM) for the microfinance context in Bangladesh, I categorize borrowers into quantity-, price-, and risk-rationed groups.
 {: .research-desc}
 
 </details>
 
-<div class="space-sm"></div>
-
-"Impact of Minimum Wage Policy on Consumer Demand: Evidence from US Fast Food Chains" *with [Modhurima Dey Amin](https://www.depts.ttu.edu/aaec/research/Faculty-Research-Expertise-and-Scholarship/Modhurima-Dey-Amin-PhD.php), Syed Badruddoza*
-{: .research-title}
-
-<details class="abstract" markdown="1">
-<summary>Abstract</summary>
-
-This study uses a difference-in-differences design to estimate how fast-food minimum wage legislation affects store-level sales and customer traffic. Drawing on the policy's selective coverage, we compare affected large chains against unaffected competitors using a high-frequency panel of 680,000+ observations, with data processing and analysis implemented in Python.
-{: .research-desc}
-
-</details>
 
 
 {% comment %}
