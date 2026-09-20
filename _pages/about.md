@@ -29,10 +29,10 @@ Fields: Development Economics · Behavioral & Experimental Economics · Applied 
 
 <div class="space-md"></div>
 
-"Audience Effect in Microfinance: Does Social Observability of Default Increase Repayment?" <a class="jmp-badge" href="{{ '/files/slides_repayement_norm.pdf' | relative_url }}" target="_blank" rel="noopener">Job Market Paper</a>
+"Audience Effect in Microfinance: Does Social Observability of Default Increase Repayment?" <a class="jmp-badge" href="{{ '/files/slides_repayment_norm.pdf' | relative_url }}" target="_blank" rel="noopener">Job Market Paper</a>
 {: .research-title}
 
-Presentations: Northeastern Universities Development Consortium (November 2026); [Symposium in Honor of Michael Carter, 2026](https://are.ucdavis.edu/symposium-in-honor-of-michael-carter/){: style="color: inherit;"}; AAEA & WAEA Joint Annual Meeting, 2025 (Poster); 14th Annual Bay Area Behavioral Economics and Experimental Workshop, 2025.
+Presentations: Northeastern Universities Development Consortium (NEUDC), November 2026; [Symposium in Honor of Michael Carter, 2026](https://are.ucdavis.edu/symposium-in-honor-of-michael-carter/){: style="color: inherit;"}; AAEA & WAEA Joint Annual Meeting, 2025 (Poster); 14th Annual Bay Area Behavioral Economics and Experimental Workshop, 2025.
 {: .research-desc}
 {% comment %}[(Poster)](https://ageconsearch.umn.edu/record/360823?ln=en&v=pdf){% endcomment %}
 
@@ -49,7 +49,7 @@ Does making default observable to peers increase repayment in microfinance? Many
 "When Corruption is the Norm: Can Signaling Environmental Compliance Reduce Bribery?" *with [Moogdho Mahzab](https://sites.google.com/virginia.edu/moogdhomahzab/home), [Nina Brooks](https://www.ninarbrooks.com/index.html), [Aprajit Mahajan](https://vcresearch.berkeley.edu/faculty/aprajit-mahajan), [Stephen Luby](https://profiles.stanford.edu/stephen-luby), Debashish Biswas, Rofi Ahmed, Shoeb Ahmed*
 {: .research-title}
 
-Presentations: AAEA Annual Meeting 2026, Pacific Conference for Development Economics (PacDev) 2026; AEDSB Dhaka Winter Conference 2025, BIGD-BRAC
+Presentations: AAEA Annual Meeting 2026; Pacific Conference for Development Economics (PacDev) 2026
 {: .research-desc}
 
 <details class="abstract" markdown="1">
@@ -72,7 +72,7 @@ Firms in developing countries often operate in structurally informal environment
 <details class="abstract" markdown="1">
 <summary>Summary</summary>
 
-This study examines how minimum wage regulation affects consumer demand in the U.S. fast-food industry. Using a difference-in-differences design, we exploit differential exposure to California's fast-food minimum wage law and compare affected large chains with unaffected competitors. The analysis uses a high frequency panel of 680,000 store-level sales and customer traffic, with data processing and analysis implemented in Python.
+This study examines how minimum wage regulation affects consumer spending and store revenue in the U.S. fast-food industry. Using a triple differences (DDD) design, we exploit variation across states, over time, and between chains covered and not covered by California's fast-food minimum wage law (AB 1228). The analysis uses a high frequency panel of 680,000 store-level sales and customer traffic, with data processing and analysis implemented in Python.
 {: .research-desc}
 
 </details>
@@ -85,7 +85,7 @@ This study examines how minimum wage regulation affects consumer demand in the U
 <details class="abstract" markdown="1">
 <summary>Summary</summary>
 
-This study examines whether indexed financial tools reduce risk rationing among smallholder microfinance borrowers in Bangladesh. Through a large-scale randomized experiment, we compare standalone agricultural index insurance with insurance bundled with savings and a contingent line of credit, and measure their effects on different forms of non-price credit rationing. We also examine whether risk rationing is more prevalent among borrowers who are more responsive to reputational incentives, testing whether social collateral can itself contribute to reluctance to borrow under risk.
+This study examines whether indexed financial tools reduce risk rationing among smallholder microfinance borrowers in Bangladesh. Through a large-scale randomized experiment with 6,683 farmers, we compare standalone agricultural index insurance with insurance bundled with savings and a contingent line of credit, and estimate their effects on different forms of non-price credit rationing. We also examine whether risk rationing is more prevalent among borrowers who are more responsive to reputational incentives, testing whether social collateral discourages borrowing under risk.
 {: .research-desc}
 
 </details>
@@ -98,7 +98,7 @@ This study examines whether indexed financial tools reduce risk rationing among 
 <details class="abstract" markdown="1">
 <summary>Summary</summary>
 
-This study develops individual-specific measures of intrinsic and reputational repayment motivation among microfinance borrowers from repeated choices in a framed lab-in-the-field experiment. Borrower-level latent repayment behavior and responsiveness to an audience are estimated using random-effects and two-limit Tobit specifications, while accounting for measurement error in the recovered behavioral reponses. The resulting measures of intrinsic and reputational motivation are used to examine whether experimentally elicited repayment motivations predict subsequent field outcomes, including insurance uptake and non-price credit rationing.
+This study develops individual-specific measures of intrinsic and reputational motivations for repayment from repeated choices in a framed lab-in-the-field experiment with microfinance borrowers. A structural model is used to recover borrower-specific behavioral parameters from censored repayment choices, using random-effects Tobit and two-limit Tobit specifications while accounting for measurement error in the recovered parameters. The resulting measures are then used to examine whether experimentally elicited repayment motivations predict subsequent field outcomes, including insurance uptake and non-price credit rationing.
 {: .research-desc}
 
 </details>
