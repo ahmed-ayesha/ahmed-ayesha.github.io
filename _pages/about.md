@@ -32,7 +32,7 @@ Fields: Development Economics · Behavioral & Experimental Economics · Applied 
 "Audience Effect in Microfinance: Does Social Observability of Default Increase Repayment?" <a class="jmp-badge" href="{{ '/files/slides_repayement_norm.pdf' | relative_url }}" target="_blank" rel="noopener">Job Market Paper</a>
 {: .research-title}
 
-Presentations: [Symposium in Honor of Michael Carter, 2026](https://are.ucdavis.edu/symposium-in-honor-of-michael-carter/){: style="color: inherit;"}; AAEA & WAEA Joint Annual Meeting, 2025 (Poster); 14th Annual Bay Area Behavioral Economics and Experimental Workshop, 2025.
+Presentations: Northeastern Universities Development Consortium (November 2026); [Symposium in Honor of Michael Carter, 2026](https://are.ucdavis.edu/symposium-in-honor-of-michael-carter/){: style="color: inherit;"}; AAEA & WAEA Joint Annual Meeting, 2025 (Poster); 14th Annual Bay Area Behavioral Economics and Experimental Workshop, 2025.
 {: .research-desc}
 {% comment %}[(Poster)](https://ageconsearch.umn.edu/record/360823?ln=en&v=pdf){% endcomment %}
 
@@ -92,7 +92,7 @@ This study examines whether indexed financial tools reduce risk rationing among 
 
 <div class="space-sm"></div>
 
-"Repayment Motivations and Financial Decision in Microfinance: Do Experimental Measures Predict Field Behavior?" <!--  *with [Michael Carter](https://are.ucdavis.edu/people/faculty/michael-carter/)* -->
+"Repayment Motivations and Financial Behaviors in Microfinance: Do Experimental Measures Predict Field Decisions?" <!--  *with [Michael Carter](https://are.ucdavis.edu/people/faculty/michael-carter/)* -->
 {: .research-title}
 
 <details class="abstract" markdown="1">
