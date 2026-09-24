@@ -6,7 +6,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Department of Agricultural and Resource Economics at the University of California, Davis. My dissertation focuses on rural credit markets, microfinance, risk and insurance, and consumer decision-making, using experimental methods. I conducted a lab-in-the-field experiment on repayment norms in microfinance, supported by a subgrant from the randomized controlled trial on [Bundling Indexed Financial Tools for Smallholder Producers in Bangladesh](https://resilience.ucdavis.edu/bundling-indexed-financial-tools-bangladesh){: style="color: inherit; text-decoration: underline;"} at the [Resilience+ Innovation Facility](https://resilience.ucdavis.edu/){: style="color: inherit; text-decoration: underline;"}. My independent projects use quasi-experimental methods and econometric modeling with high-frequency observational data to evaluate interventions and inform policy.
+I am an applied economist pursuing my Ph.D. in Agricultural and Resource Economics at UC Davis. Before my doctoral studies, I earned my master's and bachelor's degrees in Economics from the University of Dhaka. I am passionate about understanding how social incentives, financial risk, and institutional design affect economic behavior.
+{: .intro-bio}
+
+In my current work, I study repayment, credit rationing, and financial decision-making in microfinance. My research uses a lab-in-the-field experiment and randomized evaluations to examine how peer observability affects repayment, whether experimentally measured repayment motivations predict financial behavior, and whether indexed financial tools can reduce credit rationing. I also study consumer demand and regulatory policy using quasi-experimental methods, econometric modeling, and high-frequency observational data. Across these projects, I emphasize causal evidence to inform policy.
 {: .intro-bio}
 
 <div class="space-xs"></div>
@@ -18,7 +21,7 @@ Fields: Development Economics · Behavioral & Experimental Economics · Applied 
 <p class="intro-bio" style="margin: 0.75em 0 0;">
   <a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>&nbsp;Email</a>&emsp;
   <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>&nbsp;LinkedIn</a>&emsp;
-  <a href="{{ '/files/ahmed_cva.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="far fa-fw fa-file-lines" aria-hidden="true"></i>&nbsp;CV</a>
+  <a href="{{ '/files/ahmed_cv.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="far fa-fw fa-file-lines" aria-hidden="true"></i>&nbsp;CV</a>
 </p>
 {% endcomment %}
 
@@ -29,12 +32,12 @@ Fields: Development Economics · Behavioral & Experimental Economics · Applied 
 
 <div class="space-md"></div>
 
-"Audience Effect in Microfinance: Does Social Observability of Default Increase Repayment?" <a class="jmp-badge" href="{{ '/files/slides_repayment_norm.pdf' | relative_url }}" target="_blank" rel="noopener">Job Market Paper</a>
+"Audience Effect in Microfinance: Does Social Observability of Default Increase Repayment?" <a class="jmp-badge" href="{{ '/files/ahmed_microfinance_20260923.pdf' | relative_url }}" target="_blank" rel="noopener">Job Market Paper</a>
 {: .research-title}
 
-Presentations: Northeastern Universities Development Consortium (NEUDC), November 2026; [Symposium in Honor of Michael Carter, 2026](https://are.ucdavis.edu/symposium-in-honor-of-michael-carter/){: style="color: inherit;"}; AAEA & WAEA Joint Annual Meeting, 2025 (Poster); 14th Annual Bay Area Behavioral Economics and Experimental Workshop, 2025.
+Presentations: Northeastern Universities Development Consortium (NEUDC), November 2026; AAEA & WAEA Joint Annual Meeting, 2025 (Poster); 14th Annual Bay Area Behavioral Economics and Experimental Workshop, 2025.
 {: .research-desc}
-{% comment %}[(Poster)](https://ageconsearch.umn.edu/record/360823?ln=en&v=pdf){% endcomment %}
+{% comment %}[Symposium in Honor of Michael Carter, 2026](https://are.ucdavis.edu/symposium-in-honor-of-michael-carter/){: style="color: inherit;"}; [(Poster)](https://ageconsearch.umn.edu/record/360823?ln=en&v=pdf){% endcomment %}
 
 <details class="abstract" markdown="1">
 <summary>Abstract</summary>
@@ -79,7 +82,7 @@ This study examines how minimum wage regulation affects consumer spending and st
 
 <div class="space-sm"></div>
 
-"Indexed Financial Tools and Risk Rationing in Microfinance" *with [Michael Carter](https://are.ucdavis.edu/people/faculty/michael-carter/)*
+"Indexed Financial Tools and Risk Rationing in Microfinance" *with [Michael Carter](https://are.ucdavis.edu/people/faculty/michael-carter/), [Narayan C. Das](https://bigd.bracu.ac.bd/staffprofile/narayan-c-das/)*
 {: .research-title}
 
 <details class="abstract" markdown="1">

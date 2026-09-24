@@ -170,6 +170,9 @@ exclude:
   - package.json
   - tmp
   - vendor
+  # local-only folders (gitignored, but Jekyll would still build them locally)
+  - "working files"
+  - archive
 keep_files:
   - .git
   - .svn
