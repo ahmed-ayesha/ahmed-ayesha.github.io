@@ -32,7 +32,7 @@ Fields: Development Economics · Behavioral & Experimental Economics · Applied 
 
 <div class="space-md"></div>
 
-"Audience Effect in Microfinance: Does Social Observability of Default Increase Repayment?" <a class="jmp-badge" href="{{ '/files/ahmed_microfinance_20260923.pdf' | relative_url }}" target="_blank" rel="noopener">Job Market Paper</a>
+"Audience Effect in Microfinance: Does Social Observability of Default Increase Repayment?" <a class="jmp-badge" href="{{ '/files/ahmed_microfinance_20261104.pdf' | relative_url }}" target="_blank" rel="noopener">Job Market Paper</a>
 {: .research-title}
 
 Presentations: Northeastern Universities Development Consortium (NEUDC), November 2026; AAEA & WAEA Joint Annual Meeting, 2025 (Poster); 14th Annual Bay Area Behavioral Economics and Experimental Workshop, 2025.
