@@ -123,6 +123,14 @@
     text-decoration: none;              // keep the boxed look even as a link
 
     &:hover { text-decoration: none; }  // no underline on hover
+
+    /* "Slides" badges: same box, but in the normal text color */
+    &.slides-badge,
+    &.slides-badge:visited,
+    &.slides-badge:hover {
+      color: $text-color;
+      border-color: $text-color;
+    }
   }
 
   /* Collapsible abstracts: "Show abstract" toggle under each title */

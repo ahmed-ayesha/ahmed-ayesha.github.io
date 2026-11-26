@@ -32,10 +32,10 @@ Fields: Development Economics · Behavioral & Experimental Economics · Applied 
 
 <div class="space-md"></div>
 
-"Audience Effect in Microfinance: Does Social Observability of Default Increase Repayment?" <a class="jmp-badge" href="{{ '/files/jmp_ayesha_audience-effect-microfinance.pdf' | relative_url }}" target="_blank" rel="noopener">Job Market Paper</a>
+"Audience Effect in Microfinance: Does Social Observability of Default Increase Repayment?" <a class="jmp-badge" href="{{ '/files/jmp_audience-effect.pdf' | relative_url }}" target="_blank" rel="noopener">Job Market Paper</a>
 {: .research-title}
 
-Presentations: Northeastern Universities Development Consortium (NEUDC), November 2026; AAEA & WAEA Joint Annual Meeting, 2025 (Poster); 14th Annual Bay Area Behavioral Economics and Experimental Workshop, 2025.
+Presentations: Northeastern Universities Development Consortium (NEUDC) 2026; AAEA South Asia Section Graduate Student Virtual Symposium, 2026; AAEA & WAEA Joint Annual Meeting, 2025; 14th Annual Bay Area Behavioral Economics and Experimental Workshop, 2025. <a class="jmp-badge slides-badge" href="{{ '/files/jmp_audience-effect_slides.pdf' | relative_url }}" target="_blank" rel="noopener">Slides</a>
 {: .research-desc}
 {% comment %}[Symposium in Honor of Michael Carter, 2026](https://are.ucdavis.edu/symposium-in-honor-of-michael-carter/){: style="color: inherit;"}; [(Poster)](https://ageconsearch.umn.edu/record/360823?ln=en&v=pdf){% endcomment %}
 
@@ -53,7 +53,7 @@ Many microfinance institutions have progressively individualized lending, first 
 "When Corruption is the Norm: Can Signaling Environmental Compliance Reduce Bribery?" *with [Moogdho Mahzab](https://sites.google.com/virginia.edu/moogdhomahzab/home), [Nina Brooks](https://www.ninarbrooks.com/index.html), [Aprajit Mahajan](https://vcresearch.berkeley.edu/faculty/aprajit-mahajan), [Stephen Luby](https://profiles.stanford.edu/stephen-luby), Debashish Biswas, Rofi Ahmed, Shoeb Ahmed*
 {: .research-title}
 
-Presentations: AAEA Annual Meeting 2026; Pacific Conference for Development Economics (PacDev) 2026
+Presentations: AAEA Annual Meeting 2026; Pacific Conference for Development Economics (PacDev) 2026 <a class="jmp-badge slides-badge" href="{{ '/files/mahzab-ahmed_corruption_slides.pdf' | relative_url }}" target="_blank" rel="noopener">Slides</a>
 {: .research-desc}
 
 <details class="abstract" markdown="1">
